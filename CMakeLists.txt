@@ -161,3 +161,4 @@ include(AddOsqpEigenUnitTest)
 add_subdirectory(tests)
 
 include(AddUninstallTarget)
+include(cmake/cpack.cmake)
